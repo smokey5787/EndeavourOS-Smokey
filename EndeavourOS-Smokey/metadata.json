@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "michaelcurtis5787@gmail.com",
+                "Name": "Smokey"
+            }
+        ],
+        "Category": "",
+        "Description": "EndeavourOS-Smokey",
+        "Id": "EndeavourOS-Smokey",
+        "License": "GPLv3",
+        "Name": "EndeavourOS-Smokey",
+        "Website": ""
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
